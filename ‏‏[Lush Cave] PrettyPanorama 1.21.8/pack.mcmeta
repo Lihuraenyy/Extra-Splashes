@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Changes the default panorama with a lush cave panorama!",
+    "min_format": 64,
+    "max_format": 64
+  }
+}
