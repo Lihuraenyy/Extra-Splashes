@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Changes some flowers to their literal crafting recipe and names.",
+    "min_format": 75.0,
+    "max_format": 75.0
+  }
+}
