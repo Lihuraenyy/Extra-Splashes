@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Makes the Minceraft easter egg always shown as the title!",
+    "min_format": 75.0,
+    "max_format": 75.0
+  }
+}
