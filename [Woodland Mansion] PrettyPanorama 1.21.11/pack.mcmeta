@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Changes the default panorama to a woodland mansion panorama!",
+    "min_format": 75.0,
+    "max_format": 75.0
+  }
+}
