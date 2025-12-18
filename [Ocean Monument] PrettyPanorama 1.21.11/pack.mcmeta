@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Replaces the default panorama with an ocean monument panorama!",
+    "min_format": 75.0,
+    "max_format": 75.0
+  }
+}
