@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Adds rarities and obtainment methods to music discs!",
+    "min_format": 75.0,
+    "max_format": 75.0
+  }
+}
