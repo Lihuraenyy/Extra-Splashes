@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Changes textures of ores and ore blocks to their pre-1.14 look!",
+    "min_format": 75.0,
+    "max_format": 75.0
+  }
+}
